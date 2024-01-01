@@ -1,3 +1,4 @@
+[![MasterHead](https://shorturl.at/itBO7)]
 <h1 align="center">Hi 👋, I'm Yunus</h1>
 <h3 align="center">A passionate Python Developer/Data Scientist from Turkey</h3>
 <img align="right", width="400", alt="coding", src='https://shorturl.at/itBO7'>
