@@ -1,69 +1,63 @@
-<h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">A passionate Python Developer / Data Engineer / Data Scientist from Turkey</h3>
-<img align="right" width="400" alt="Coding" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
+<h1 align="center">Hi 👋, I'm Yunus Can Cengiz</h1>
+<h3 align="center">A Python Developer | Data Engineer | Data Scientist from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuscancengiz&label=Profile%20views&color=0e75b6&style=flat" alt="yunuscancengiz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yccngzz" target="blank"><img src="https://img.shields.io/twitter/follow/yccngzz?logo=twitter&style=for-the-badge" alt="yccngzz" /></a> </p>
-
----
-
-### 🔭 **Current Projects and Experiences:**
-
-- 🚀 I’m currently working on [**PredictLine**](https://github.com/yunuscancengiz/PredictLine), a predictive maintenance pipeline integrating Apache Kafka, Apache Druid, InfluxDB, PostgreSQL, and Grafana for end-to-end data processing and visualization.
-
-- 🌟 **Recently Completed Internship:** Worked on a predictive maintenance project that utilized InfluxDB for sensor data, Apache Kafka for streaming, Apache Druid for preprocessing, and Grafana for real-time visualization. Deployed on Google Cloud with Dockerized services.
-
-- 📊 Leveraged LSTM models for time series predictions with a focus on optimizing machine performance and breakdown risk analysis.
-
-- 🌱 I’m currently learning **trading basics and technical indicators.**
-
-- 📝 Check out my articles on Medium: [https://medium.com/@yunuscancengizz](https://medium.com/@yunuscancengizz)
-
-- 💬 Ask me about **Python, Algorithmic Trading, Web Scraping, Data Science, or Cloud Deployments.**
-
-- 📫 Reach me at **yunuscancengizz@gmail.com**
-
----
-
-### 🌐 **Connect with me:**
-<p align="left">
-<a href="https://twitter.com/yccngzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yccngzz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yunus can cengiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus can cengiz" height="30" width="40" /></a>
-<a href="https://kaggle.com/yunuscancengiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yunuscancengiz" height="30" width="40" /></a>
-<a href="https://instagram.com/yunuscancengiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunuscancengiz" height="30" width="40" /></a>
-<a href="https://medium.com/@yunuscancengizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yunuscancengizz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
 </p>
 
 ---
 
-### 🛠 **Languages and Tools:**
-<p align="left"> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+I am a passionate developer with hands-on experience in Python development, data engineering, and data science. My projects focus on building scalable pipelines, predictive models, and insightful visualizations for real-world problems.
+</p>
+
+- 🔭 Currently working on [**PredictLine**](https://github.com/yunuscancengiz/PredictLine), an end-to-end predictive maintenance pipeline.
+- 🌟 Completed a predictive maintenance project leveraging **Apache Kafka**, **InfluxDB**, **Apache Druid**, and **Grafana**, deployed on **Google Cloud**.
+- 🌱 Learning **algorithmic trading and technical indicators**.
+- 📝 Writing articles on [**Medium**](https://medium.com/@yunuscancengizz).
+- 💬 Open to discussions about **Python, Data Science, Cloud Deployments, and Web Scraping**.
+- 📫 Reach me at **yunuscancengizz@gmail.com**.
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://twitter.com/yccngzz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yunus can cengiz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/yunuscancengiz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://instagram.com/yunuscancengiz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://medium.com/@yunuscancengizz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunuscancengiz&show_icons=true&locale=en&layout=compact" alt="yunuscancengiz" /></p>
+<h2 align="center">🛠️ Technologies & Tools</h2>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Apache Kafka" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" width="40" height="40" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunuscancengiz&show_icons=true&locale=en" alt="yunuscancengiz" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunuscancengiz&" alt="yunuscancengiz" /></p>
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuscancengiz&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunuscancengiz&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuscancengiz&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+</p>
 
+---
+
+<h2 align="center">💡 Featured Projects</h2>
+<ul>
+  <li><b>PredictLine:</b> An end-to-end predictive maintenance pipeline leveraging Docker, Apache Kafka, Apache Druid, and LSTM models. <a href="https://github.com/yunuscancengiz/PredictLine">View Repository</a></li>
+  <li><b>Algorithmic Trading:</b> A Python-based trading bot with technical indicator analysis. <a href="https://github.com/yunuscancengiz/AlgorithmicTrading">View Repository</a></li>
+</ul>
