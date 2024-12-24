@@ -2,7 +2,7 @@
 <h3 align="center">A Python Developer | Data Engineer | Data Scientist from Turkey</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)" width="400" alt="Coding">
 </p>
 
 ---
