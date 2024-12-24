@@ -59,5 +59,5 @@ I am a passionate developer with hands-on experience in Python development, data
 <h2 align="center">💡 Featured Projects</h2>
 <ul>
   <li><b>PredictLine:</b> An end-to-end predictive maintenance pipeline leveraging Docker, Apache Kafka, Apache Druid, and LSTM models. <a href="https://github.com/yunuscancengiz/PredictLine">View Repository</a></li>
-  <li><b>Algorithmic Trading:</b> A Python-based trading bot with technical indicator analysis. <a href="https://github.com/yunuscancengiz/AlgorithmicTrading">View Repository</a></li>
+  <li><b>Algorithmic Trading:</b> A Python-based trading bot with technical indicator analysis. <a href="https://github.com/yunuscancengiz/binance_ccxt">View Repository</a></li>
 </ul>
