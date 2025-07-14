@@ -12,7 +12,7 @@
 I am a passionate developer with hands-on experience in Python development, data engineering, and data science. My projects focus on building scalable pipelines, predictive models, and insightful visualizations for real-world problems.
 </p>
 
-- 🔭 Currently working on [**PredictLine**](https://github.com/yunuscancengiz/PredictLine), an end-to-end predictive maintenance pipeline.
+- 🔭 Currently working on [**OuiCherie**](https://github.com/yunuscancengiz/OuiCherie), an French Quiz App.
 - 🌟 Completed a predictive maintenance project leveraging **Apache Kafka**, **InfluxDB**, **Apache Druid**, and **Grafana**, deployed on **Google Cloud**.
 - 🌱 Learning **algorithmic trading and technical indicators**.
 - 📝 Writing articles on [**Medium**](https://medium.com/@yunuscancengizz).
