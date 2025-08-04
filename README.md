@@ -20,7 +20,7 @@ class YunusCanCengiz:
         self.role = ["Python Developer", "Data Engineer", "Web Scraper"]
         self.country = "Turkey"
         self.email = "yunuscancengizz@gmail.com"
-        self.focus = ["Web Scraping", "ETL Pipelines", "ML"]
+        self.focus = ["Web Scraping", "ETL Pipelines", "Backend"]
 
     def learning(self):
         return ["FastAPI", "Django", "Algorithmic Trading", "DSA", "Concurrency"]
