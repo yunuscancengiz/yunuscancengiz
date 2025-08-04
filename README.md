@@ -1,72 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yunus Can Cengiz</h1>
-<h3 align="center">Python Developer | Data Engineer | Data Scientist</h3>
+
+<!-- Profile Header -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yunus+Can+Cengiz;Python+Developer+|+Data+Engineer+|+Data+Scientist;Welcome+to+my+GitHub+profile!&center=true&width=500&height=45&font=Fira%20Code&pause=1000" />
+
+<p>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400" alt="Coding Animation">
+</p>
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```python
+class YunusCanCengiz:
+    def __init__(self):
+        self.role = ["Python Developer", "Data Engineer", "Data Scientist"]
+        self.country = "Turkey"
+        self.email = "yunuscancengizz@gmail.com"
+        self.focus = ["Web Scraping", "Cloud Pipelines", "ML Workflows"]
+
+    def learning(self):
+        return ["Algorithmic Trading", "LLMs", "Distributed Systems"]
+```
+
+- 🚀 Currently working on [OuiCherie](https://github.com/yunuscancengiz/OuiCherie)
+- ☁️ Built [PredictLine](https://github.com/yunuscancengiz/PredictLine) with Kafka, Grafana, and GCP
+- 🧠 Writing on [Medium](https://medium.com/@yunuscancengizz)
+- 🗣️ I love talking about scraping strategies, automation, and performance tuning
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400" alt="Coding">
+  <a href="https://twitter.com/yccngzz"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yunus-can-cengiz-ab54aa1b1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@yunuscancengizz"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://kaggle.com/yunuscancengiz"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎯 I’m a passionate Python developer from Turkey, focused on building robust data pipelines, predictive models, and efficient scraping bots for real-world applications.
-
-- 🔭 Currently working on: [**OuiCherie**](https://github.com/yunuscancengiz/OuiCherie) – a French quiz app.
-- 🛠️ Previously built: [**PredictLine**](https://github.com/yunuscancengiz/PredictLine) – an end-to-end predictive maintenance pipeline using **Kafka**, **InfluxDB**, and **Grafana**, deployed on **GCP**.
-- 📈 Learning: Algorithmic trading & technical indicators.
-- ✍️ Sharing ideas: [**Medium**](https://medium.com/@yunuscancengizz)
-- 🤝 Open to collaboration on Python, data science, web scraping, and cloud projects.
-- 📬 Reach me: **yunuscancengizz@gmail.com**
-
----
-
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://twitter.com/yccngzz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" height="30" alt="Twitter"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/yunus-can-cengiz-ab54aa1b1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="30" alt="LinkedIn"></a>&nbsp;
-  <a href="https://kaggle.com/yunuscancengiz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kaggle.svg" height="30" alt="Kaggle"></a>&nbsp;
-  <a href="https://instagram.com/yunuscancengiz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" height="30" alt="Instagram"></a>&nbsp;
-  <a href="https://medium.com/@yunuscancengizz"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" height="30" alt="Medium"></a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,docker,kafka,tensorflow,pytorch,grafana,gcp" />
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FastAPI">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka">
-  <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" height="40" alt="Grafana">
-</p>
-
----
-
-## 💡 Featured Projects
+## 🧩 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**PredictLine**](https://github.com/yunuscancengiz/PredictLine) | Predictive maintenance pipeline using Docker, Kafka, InfluxDB, LSTM, Grafana | `Python`, `Docker`, `Kafka`, `Grafana`, `Google Cloud` |
-| [**OuiCherie**](https://github.com/yunuscancengiz/OuiCherie) | A modern French learning app with quizzes, streak tracking, and gamification | `FastAPI`, `Tailwind`, `Chart.js`, `PostgreSQL` |
-| [**Algorithmic Trading**](https://github.com/yunuscancengiz/binance_ccxt) | Python-based bot for algorithmic trading using technical indicators | `ccxt`, `TA-Lib`, `Plotly`, `Pandas` |
+| 🎯 [**PredictLine**](https://github.com/yunuscancengiz/PredictLine) | Predictive maintenance pipeline with time-series and cloud infra | `Python`, `Kafka`, `InfluxDB`, `LSTM`, `Grafana` |
+| 🧠 [**OuiCherie**](https://github.com/yunuscancengiz/OuiCherie) | French learning app with gamified UX and streak tracking | `FastAPI`, `Tailwind`, `Chart.js`, `PostgreSQL` |
+| 📊 [**Algorithmic Trading Bot**](https://github.com/yunuscancengiz/binance_ccxt) | Automated trading with indicators and visual plots | `ccxt`, `TA-Lib`, `Plotly`, `Pandas` |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunuscancengiz&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yunuscancengiz&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuscancengiz&layout=compact&theme=radical" width="50%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yunuscancengiz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yunuscancengiz&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuscancengiz&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
 
 ---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yunuscancengiz&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</p>
