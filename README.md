@@ -17,7 +17,7 @@
 ```python
 class YunusCanCengiz:
     def __init__(self):
-        self.role = ["Python Developer", "Data Engineer", "Data Scientist"]
+        self.role = ["Python Developer", "Data Engineer", "Web Scraper"]
         self.country = "Turkey"
         self.email = "yunuscancengizz@gmail.com"
         self.focus = ["Web Scraping", "Cloud Pipelines", "ML Workflows"]
