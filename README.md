@@ -41,7 +41,7 @@ I am a passionate developer with hands-on experience in Python development, data
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="Apache Kafka" width="40" height="40" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.svg" alt="Apache Kafka" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana" width="40" height="40" />
 </p>
 
