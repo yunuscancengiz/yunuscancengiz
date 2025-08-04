@@ -13,7 +13,7 @@ I am a passionate developer with hands-on experience in Python development, data
 </p>
 
 - 🔭 Currently working on [**OuiCherie**](https://github.com/yunuscancengiz/OuiCherie), an French Quiz App.
-- 🌟 Completed a predictive maintenance project leveraging **Apache Kafka**, **InfluxDB**, **Apache Druid**, and **Grafana**, deployed on **Google Cloud**.
+- 🌟 Completed a predictive maintenance project [**PredictLine**](https://github.com/yunuscancengiz/PredictLine), leveraging **Apache Kafka**, **InfluxDB**, **Apache Druid**, and **Grafana**, deployed on **Google Cloud**.
 - 🌱 Learning **algorithmic trading and technical indicators**.
 - 📝 Writing articles on [**Medium**](https://medium.com/@yunuscancengizz).
 - 💬 Open to discussions about **Python, Data Science, Cloud Deployments, and Web Scraping**.
