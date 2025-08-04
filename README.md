@@ -2,7 +2,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yunus+Can+Cengiz;Python+Developer+|+Data+Engineer+|+Data+Scientist;Welcome+to+my+GitHub+profile!&center=true&width=500&height=45&font=Fira%20Code&pause=1000" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yunus+Can+Cengiz;Python+Developer+|+Data+Engineer;Welcome+to+my+GitHub+profile!&center=true&width=600&height=45&font=Fira%20Code&pause=1000" />
 
 <p>
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400" alt="Coding Animation">
@@ -76,5 +76,5 @@ class YunusCanCengiz:
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yunuscancengiz&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=yunuscancengiz&label=Profile%20views&color=0e75b6&style=flat" alt="yunuscancengiz" />
 </p>
