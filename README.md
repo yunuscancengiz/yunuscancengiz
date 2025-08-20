@@ -2,7 +2,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yunus+Can+Cengiz;Python+Developer+|+Data+Engineer;Welcome+to+my+GitHub+profile!&center=true&width=600&height=45&font=Fira%20Code&pause=1000" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yunus+Can+Cengiz;Python+Developer+|+Data+Engineer+|+Data Scraper;Welcome+to+my+GitHub+profile!&center=true&width=600&height=45&font=Fira%20Code&pause=1000" />
 
 <p>
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="400" alt="Coding Animation">
