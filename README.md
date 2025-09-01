@@ -26,7 +26,6 @@ class YunusCanCengiz:
         return ["FastAPI", "Django", "Algorithmic Trading", "DSA", "Concurrency"]
 ```
 
-- 🚀 Currently working on platform-agnostic scraping engine. 
 - 🎯 Built an course app for French learners. [OuiCherie](https://github.com/yunuscancengiz/OuiCherie)
 - ☁️ Built [PredictLine](https://github.com/yunuscancengiz/PredictLine) with Kafka, Grafana, and GCP
 - 🧠 Writing on [Medium](https://medium.com/@yunuscancengizz)
